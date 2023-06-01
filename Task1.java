@@ -7,7 +7,7 @@
 // Rolling of a six-faced biased dice
 // Input: [ {1, 10}, {2, 30}, {3, 15}, {4, 15}, {5, 30}, {6, 0} ]
 // Flipping of a coin
-// Input [ {“Head”: 35}, {“Tail”: 65} ]
+
 // Rules
 // Input: Probabilities given are as integers and percentages.
 // Each occurrence of the event should only generate one of the outcomes given in input
@@ -30,9 +30,10 @@
 
 // The program outputs the results as a map of outcomes and the number of times each outcome occurred.
 
+
 import java.util.*;
 
-public class Main {
+public class Task1 {
     public static void main(String[] args) {
 
         // Input probabilities as integers

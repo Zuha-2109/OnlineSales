@@ -1,3 +1,16 @@
+
+// Task 1
+
+// Assuming
+
+// The event will have finite number of possible outcomes, each with a given probability.
+
+// The number of occurrences is fixed and predetermined.
+
+// The outcome of each occurrence is recorded and stored in a map.
+
+// The program outputs the results as a map of outcomes and the number of times each outcome occurred.
+
 import java.util.*;
 
 public class Main {
